@@ -1,0 +1,29 @@
+C:\Users\Root\documents\visual studio 2010\Projects\Delay Player\Delay Player\bin\Debug\Delay Player.exe
+C:\Users\Root\documents\visual studio 2010\Projects\Delay Player\Delay Player\bin\Debug\Delay Player.pdb
+C:\Users\Root\documents\visual studio 2010\Projects\Delay Player\Delay Player\bin\Debug\Delay Player.xml
+C:\Users\Root\documents\visual studio 2010\Projects\Delay Player\Delay Player\obj\x86\Debug\Delay_Player.Resources.resources
+C:\Users\Root\documents\visual studio 2010\Projects\Delay Player\Delay Player\obj\x86\Debug\Delay Player.vbproj.GenerateResource.Cache
+C:\Users\Root\documents\visual studio 2010\Projects\Delay Player\Delay Player\obj\x86\Debug\Delay Player.exe
+C:\Users\Root\documents\visual studio 2010\Projects\Delay Player\Delay Player\obj\x86\Debug\Delay Player.xml
+C:\Users\Root\documents\visual studio 2010\Projects\Delay Player\Delay Player\obj\x86\Debug\Delay Player.pdb
+C:\Users\Root\documents\visual studio 2010\Projects\Delay Player\Delay Player\obj\x86\Debug\Delay_Player.Form1.resources
+C:\Users\Root\documents\visual studio 2010\Projects\Delay Player\Delay Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Root\documents\visual studio 2010\Projects\Delay Player\Delay Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Root\documents\visual studio 2010\Projects\Delay Player\Delay Player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Root\documents\visual studio 2010\Projects\Delay Player\Delay Player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Root\documents\visual studio 2010\Projects\Delay Player\Delay Player\obj\x86\Debug\Delay Player.vbproj.ResolveComReference.cache
+Z:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Delay Player\Delay Player\bin\Debug\Delay Player.exe
+Z:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Delay Player\Delay Player\bin\Debug\Delay Player.pdb
+Z:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Delay Player\Delay Player\bin\Debug\Delay Player.xml
+Z:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Delay Player\Delay Player\bin\Debug\Interop.WMPLib.dll
+Z:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Delay Player\Delay Player\bin\Debug\AxInterop.WMPLib.dll
+Z:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Delay Player\Delay Player\obj\x86\Debug\Delay Player.vbprojResolveAssemblyReference.cache
+Z:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Delay Player\Delay Player\obj\x86\Debug\Interop.WMPLib.dll
+Z:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Delay Player\Delay Player\obj\x86\Debug\AxInterop.WMPLib.dll
+Z:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Delay Player\Delay Player\obj\x86\Debug\Delay Player.vbproj.ResolveComReference.cache
+Z:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Delay Player\Delay Player\obj\x86\Debug\Delay_Player.Form1.resources
+Z:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Delay Player\Delay Player\obj\x86\Debug\Delay_Player.Resources.resources
+Z:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Delay Player\Delay Player\obj\x86\Debug\Delay Player.vbproj.GenerateResource.Cache
+Z:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Delay Player\Delay Player\obj\x86\Debug\Delay Player.exe
+Z:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Delay Player\Delay Player\obj\x86\Debug\Delay Player.xml
+Z:\00_Documents\00_Programming\01_Projects\CSharp\00_Project\Visual Studio 2010\Projects\Delay Player\Delay Player\obj\x86\Debug\Delay Player.pdb
